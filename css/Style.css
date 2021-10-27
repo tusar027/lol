@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+ }
+ header{
+     background-color: #000;
+     width: 100%;
+     height: 700px;
+ }
+ h3{
+     text-align: center;
+     padding-top: 180px;
+     color: #fff;
+     padding-bottom: 50px;
+     
+ }
+ #Small_container{
+     width: 100%;
+     height: 100%;
+     background-color: #000;
+    
+ }
+ #Small_container .container{
+    width: 60%;
+    height: 60%;
+    background-color: rgb(41, 40, 37);
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+ }
+ form{
+     margin-left: 125px;
+ }
+.container_form{
+    display: flex;
+}
+.container_form p{
+    padding-right: 202px;
+    padding-bottom: 10px;
+    color: #fff;
+
+}
+
+.btn-class{
+    border-color: #fff;
+    color: #fff;
+ }
+ .btn-class:hover{
+    background-color:rgb(255, 115, 0) ;
+ }
+.container_form input{
+    width: 280px;
+    height: 20px;
+
+    
+}
+.password_contain{
+    display: flex;
+}
+.password_contain p{
+    padding-right: 205px;
+    padding-bottom: 10px;
+    color: #fff;
+}
+.password_contain input{
+    width: 280px;
+    height: 20px;
+}
+.email_contain{
+    display: flex;
+}
+.email_contain p{
+    padding-right: 235px;
+    padding-bottom: 10px;
+    color: #fff;
+   
+}
+.email_contain input{
+    width: 280px;
+    height: 20px;
+}
+.form-group{
+    margin-left: 15px;
+    padding-left: 260px;
+    padding-bottom: 5px;
+}
+.form_remembar{
+    margin-left: 27px;
+    padding-left: 245px;
+    color: #fff;
+}
